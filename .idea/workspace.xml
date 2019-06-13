@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39d9496c-df29-4992-aca5-a9fe5c9b874f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python-100-Days.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-100-Days.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day05.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,20 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day04.py">
+        <entry file="file://$PROJECT_DIR$/Day07.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="254">
+              <caret line="88" column="18" lean-forward="true" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -49,7 +40,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="studypython" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="PUSH_TAGS">
@@ -62,6 +53,10 @@
         <option value="$PROJECT_DIR$/Day02.py" />
         <option value="$PROJECT_DIR$/.idea/Day04.py" />
         <option value="$PROJECT_DIR$/Day04.py" />
+        <option value="$PROJECT_DIR$/Day05.py" />
+        <option value="$PROJECT_DIR$/Day06.py" />
+        <option value="$PROJECT_DIR$/.idea/Day07.py" />
+        <option value="$PROJECT_DIR$/Day07.py" />
       </list>
     </option>
   </component>
@@ -77,6 +72,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -89,7 +85,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -99,10 +94,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../RF" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -121,7 +117,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Day04">
+  <component name="RunManager" selected="Python.Day07">
     <configuration name="Day02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-100-Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,7 +131,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day02.py" />
+      <option name="SCRIPT_NAME" value="C:\WorkSpace\Python-100-Days\study-python\Day02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +153,73 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day04.py" />
+      <option name="SCRIPT_NAME" value="C:\WorkSpace\Python-100-Days\study-python\Day04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day05" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-100-Days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\WorkSpace\Python-100-Days\study-python\Day05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-100-Days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\WorkSpace\Python-100-Days\study-python\Day06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Day07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-100-Days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\WorkSpace\Python-100-Days\study-python\Day07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,6 +230,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day07" />
+        <item itemvalue="Python.Day06" />
+        <item itemvalue="Python.Day05" />
         <item itemvalue="Python.Day04" />
         <item itemvalue="Python.Day02" />
       </list>
@@ -188,6 +253,28 @@
       <workItem from="1557799599316" duration="733000" />
       <workItem from="1558596399939" duration="5327000" />
       <workItem from="1558680628449" duration="4718000" />
+      <workItem from="1558922338869" duration="6017000" />
+      <workItem from="1559012900741" duration="7515000" />
+      <workItem from="1559091732700" duration="2296000" />
+      <workItem from="1559193934115" duration="3265000" />
+      <workItem from="1559713237871" duration="4831000" />
+      <workItem from="1559738818356" duration="396000" />
+      <workItem from="1559798496397" duration="1487000" />
+      <workItem from="1560136841201" duration="2022000" />
+      <workItem from="1560140042501" duration="1661000" />
+      <workItem from="1560141735462" duration="6649000" />
+      <workItem from="1560155093510" duration="4134000" />
+      <workItem from="1560219769930" duration="1631000" />
+      <workItem from="1560223133438" duration="618000" />
+      <workItem from="1560238338620" duration="1604000" />
+      <workItem from="1560240959922" duration="5121000" />
+      <workItem from="1560403397693" duration="2958000" />
+      <workItem from="1560406910718" duration="98000" />
+      <workItem from="1560407035388" duration="2699000" />
+      <workItem from="1560416756827" duration="1651000" />
+      <workItem from="1560420150351" duration="129000" />
+      <workItem from="1560421675382" duration="286000" />
+      <workItem from="1560422408060" duration="1300000" />
     </task>
     <task id="LOCAL-00001" summary="Day01">
       <created>1557797413092</created>
@@ -203,16 +290,31 @@
       <option name="project" value="LOCAL" />
       <updated>1557800892038</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day02">
+      <created>1558948696320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558948696320</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Day02">
+      <created>1558949029758</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558949029758</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12193000" />
+    <option name="totallyTimeSpent" value="70561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14644013" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.197411" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -221,13 +323,13 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49838188" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49919093" weight="0.32960895" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5008091" side_tool="true" weight="0.32960895" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.50161815" side_tool="true" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49919093" weight="0.32960895" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -269,7 +371,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Day02" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_100_Days$Day04.coverage" NAME="Day04 Coverage Results" MODIFIED="1558690163390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$Day07.coverage" NAME="Day07 Coverage Results" MODIFIED="1560246859518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$Day04.coverage" NAME="Day04 Coverage Results" MODIFIED="1559013279764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$Day05.coverage" NAME="Day05 Coverage Results" MODIFIED="1559119388285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$Day06.coverage" NAME="Day06 Coverage Results" MODIFIED="1560140846064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_100_Days$Day02.coverage" NAME="Day02 Coverage Results" MODIFIED="1558604982890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
@@ -289,8 +394,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day04.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="1425">
+          <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/Day07.py" />
+    <entry file="file://$PROJECT_DIR$/Day07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="88" column="18" lean-forward="true" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -333,6 +460,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>Android API 29 Platform</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
