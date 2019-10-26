@@ -242,13 +242,13 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest in bin" />
-      <item itemvalue="Python tests.Unittests in bin" />
       <item itemvalue="Python.Day07" />
       <item itemvalue="Python.718" />
       <item itemvalue="Python.test_20190718" />
       <item itemvalue="Python.send_email" />
       <item itemvalue="Python.haversine" />
+      <item itemvalue="Python tests.pytest in bin" />
+      <item itemvalue="Python tests.Unittests in bin" />
     </list>
     <recent_temporary>
       <list>
