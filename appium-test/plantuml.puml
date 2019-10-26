@@ -1,0 +1,10 @@
+@startuml
+title Simple UML
+User -> FMU: Command
+FMU -> FCU: Execute
+FMU <-- FCU:OK
+
+User -> FMU: Another command
+FMU -> FCU: Execute
+FMU <-- FCU: OK
+@enduml
