@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39d9496c-df29-4992-aca5-a9fe5c9b874f" name="Default Changelist" comment="Day02">
-      <change afterPath="$PROJECT_DIR$/appium-test/appium-demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appium-test/plantuml.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/request/API_EX01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study-python/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study-python/kwargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study-python/mycode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study-python/send_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study-python/testMycode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study-python/test_20190718.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study-python/test_EX01.py" afterDir="false" />
+    <list default="true" id="39d9496c-df29-4992-aca5-a9fe5c9b874f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/distance/matplot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-python/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/study-python/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-python/test_20190718.py" beforeDir="false" afterPath="$PROJECT_DIR$/study-python/test_20190718.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +91,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.haversine">
+  <component name="RunManager" selected="Python tests.pytest in bin">
     <configuration name="718" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-100-Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,9 +245,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_20190718" />
         <item itemvalue="Python.haversine" />
         <item itemvalue="Python.send_email" />
-        <item itemvalue="Python.test_20190718" />
         <item itemvalue="Python.718" />
         <item itemvalue="Python.Day07" />
       </list>
@@ -362,6 +355,10 @@
       <workItem from="1571973220998" duration="781000" />
       <workItem from="1571995543115" duration="306000" />
       <workItem from="1572058581538" duration="9656000" />
+      <workItem from="1572079111342" duration="1266000" />
+      <workItem from="1572246308324" duration="4785000" />
+      <workItem from="1572416904400" duration="2015000" />
+      <workItem from="1572492412811" duration="7158000" />
     </task>
     <task id="LOCAL-00001" summary="Day01">
       <created>1557797413092</created>
@@ -398,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572077507730</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day02">
+      <created>1572079127206</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572079127206</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -455,9 +459,9 @@
     <SUITE FILE_PATH="coverage/Python_100_Days$Day07.coverage" NAME="Day07 Coverage Results" MODIFIED="1560246859518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_100_Days$Day04.coverage" NAME="Day04 Coverage Results" MODIFIED="1559013279764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_100_Days$haversine__1_.coverage" NAME="haversine (1) Coverage Results" MODIFIED="1572076486137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distance" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$test_20190718.coverage" NAME="test_20190718 Coverage Results" MODIFIED="1571814409205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$test_20190718.coverage" NAME="test_20190718 Coverage Results" MODIFIED="1572250801319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
     <SUITE FILE_PATH="coverage/Python_100_Days$Day05.coverage" NAME="Day05 Coverage Results" MODIFIED="1559119388285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$pytest_in_bin.coverage" NAME="pytest in bin Coverage Results" MODIFIED="1571973356473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$pytest_in_bin.coverage" NAME="pytest in bin Coverage Results" MODIFIED="1572252049148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Python_100_Days$test_EX01.coverage" NAME="test_EX01 Coverage Results" MODIFIED="1563452532485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
     <SUITE FILE_PATH="coverage/Python_100_Days$Day06.coverage" NAME="Day06 Coverage Results" MODIFIED="1560140846064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_100_Days$appium_demo.coverage" NAME="appium-demo Coverage Results" MODIFIED="1560759422364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium-test" />
