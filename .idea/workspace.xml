@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39d9496c-df29-4992-aca5-a9fe5c9b874f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/distance/readCSV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distance/jsgs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study-mock/mock_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/distance/haversine.py" beforeDir="false" afterPath="$PROJECT_DIR$/distance/haversine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-python/test_20190718.py" beforeDir="false" afterPath="$PROJECT_DIR$/study-python/test_20190718.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +55,11 @@
   </component>
   <component name="ProjectId" id="1Pfabp2pDDfkbrSnCCoxWSx0Ubf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -68,7 +74,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="PyDebuggerOptionsProvider">
     <option name="mySaveCallSignatures" value="true" />
@@ -77,18 +83,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\WorkSpace\Python-100-Days" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.haversine">
     <configuration name="718" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -233,15 +227,6 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.718" />
-      <item itemvalue="Python.test_20190718" />
-      <item itemvalue="Python.send_email" />
-      <item itemvalue="Python.haversine" />
-      <item itemvalue="Python.readCSV" />
-      <item itemvalue="Python tests.pytest in bin" />
-      <item itemvalue="Python tests.Unittests in bin" />
-    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.readCSV" />
@@ -251,6 +236,18 @@
         <item itemvalue="Python.718" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\TOPXGUN\AppData\Roaming\Subversion</configuration>
@@ -360,6 +357,25 @@
       <workItem from="1572492412811" duration="7158000" />
       <workItem from="1572513068100" duration="646000" />
       <workItem from="1572680219043" duration="5370000" />
+      <workItem from="1573010705854" duration="10065000" />
+      <workItem from="1573183592389" duration="387000" />
+      <workItem from="1573184011215" duration="6954000" />
+      <workItem from="1573529050617" duration="213000" />
+      <workItem from="1574390927944" duration="2780000" />
+      <workItem from="1574902519696" duration="2091000" />
+      <workItem from="1574927967672" duration="332000" />
+      <workItem from="1575516804588" duration="2139000" />
+      <workItem from="1576305308995" duration="258000" />
+      <workItem from="1576464592541" duration="4250000" />
+      <workItem from="1576650846951" duration="174000" />
+      <workItem from="1578042073235" duration="3083000" />
+      <workItem from="1578311312573" duration="1044000" />
+      <workItem from="1578362315256" duration="837000" />
+      <workItem from="1578363575357" duration="370000" />
+      <workItem from="1578364001649" duration="1244000" />
+      <workItem from="1578365290118" duration="131000" />
+      <workItem from="1578365467053" duration="707000" />
+      <workItem from="1578370225763" duration="231000" />
     </task>
     <task id="LOCAL-00001" summary="Day01">
       <created>1557797413092</created>
@@ -410,7 +426,21 @@
       <option name="project" value="LOCAL" />
       <updated>1572513101351</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Day04">
+      <created>1573010837592</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1573010837592</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Day04">
+      <created>1573010882588</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1573010882588</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -456,106 +486,53 @@
     <MESSAGE value="Day01" />
     <MESSAGE value="Day02" />
     <MESSAGE value="Day03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day03" />
+    <MESSAGE value="Day04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day04" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578365137512">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1578365137512" />
+    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1578370627544">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1578370627544" />
+    <state width="1237" height="180" key="GridCell.Tab.0.bottom" timestamp="1578366316854">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1578366316854" />
+    <state width="1237" height="180" key="GridCell.Tab.0.center" timestamp="1578366316853">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1578366316853" />
+    <state width="1237" height="180" key="GridCell.Tab.0.left" timestamp="1578366316853">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1578366316853" />
+    <state width="1237" height="180" key="GridCell.Tab.0.right" timestamp="1578366316853">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1578366316853" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1578365421234">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1578365421234" />
+    <state x="336" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1578370244750">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="336" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1578370244750" />
+    <state x="398" y="0" key="git4idea.branch.GitSmartOperationDialog" timestamp="1578370584706">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="398" y="0" key="git4idea.branch.GitSmartOperationDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1578370584706" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_100_Days$API_EX01.coverage" NAME="API_EX01 Coverage Results" MODIFIED="1563513440110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/request" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1568280913649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$Day07.coverage" NAME="Day07 Coverage Results" MODIFIED="1560246859518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$Day04.coverage" NAME="Day04 Coverage Results" MODIFIED="1559013279764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$haversine__1_.coverage" NAME="haversine (1) Coverage Results" MODIFIED="1572076486137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distance" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$test_20190718.coverage" NAME="test_20190718 Coverage Results" MODIFIED="1572250801319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$Day05.coverage" NAME="Day05 Coverage Results" MODIFIED="1559119388285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$readCSV.coverage" NAME="readCSV Coverage Results" MODIFIED="1572685979945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distance" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$pytest_in_bin.coverage" NAME="pytest in bin Coverage Results" MODIFIED="1572252049148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$test_EX01.coverage" NAME="test_EX01 Coverage Results" MODIFIED="1563452532485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$Day06.coverage" NAME="Day06 Coverage Results" MODIFIED="1560140846064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$appium_demo.coverage" NAME="appium-demo Coverage Results" MODIFIED="1560759422364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/appium-test" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$pytest_EX01.coverage" NAME="pytest_EX01 Coverage Results" MODIFIED="1563445403966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$Day02.coverage" NAME="Day02 Coverage Results" MODIFIED="1558604982890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$pytest_in_Desktop.coverage" NAME="pytest in Desktop Coverage Results" MODIFIED="1563453965741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$kwargs.coverage" NAME="kwargs Coverage Results" MODIFIED="1563256719562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$718.coverage" NAME="718 Coverage Results" MODIFIED="1566812302147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
-    <SUITE FILE_PATH="coverage/Python_100_Days$haversine.coverage" NAME="haversine Coverage Results" MODIFIED="1572686813506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/distance" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Python</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Python 3.7 interpreter library</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>Android API 29 Platform</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Python-100-Days</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <SUITE FILE_PATH="coverage/Python_100_Days$pytest_in_bin.coverage" NAME="pytest in bin Coverage Results" MODIFIED="1578370402274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$mock_test.coverage" NAME="mock_test Coverage Results" MODIFIED="1578366280515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-mock" />
   </component>
 </project>
