@@ -36,6 +36,7 @@ def high(a, b, c):
     # 根据海伦公式求高
     P = (a + b + c) / 2
     S = sqrt(P * (P - a) * (P - b) * (P - c))
+    print("S",S)
     h = 2 * S / b
     if h is None:
         print("error")
@@ -45,4 +46,4 @@ def high(a, b, c):
 # b = haversine()
 # print("计算c边")
 # c = haversine()
-print(high(73, 78, 60))
+print(high(5, 6, 7))
