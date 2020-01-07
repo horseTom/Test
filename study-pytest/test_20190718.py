@@ -1,6 +1,5 @@
 import pytest
 
-@pytest.mark.skip
 @pytest.mark.usefixtures('mod_setup')
 @pytest.mark.usefixtures('clsA_teardown')
 @pytest.mark.run(order=1)
@@ -15,17 +14,17 @@ class TestA():
     def test_3(self):
         assert True != False
 
-# @pytest.mark.skip
+
 @pytest.mark.usefixtures('func')
 @pytest.mark.run(order=2)
 class TestB:
-    # def test_4(func):
-    #     assert 1 == 1
-    #
-    # def test_5(self):
-    #     assert 1 < 2
+    def test_4(func):
+        assert 1 == 1
 
-    @pytest.fixture(scope="function",params=[(1,1,2),(1,2,3),(1,4,5)])
+    def test_5(self):
+        assert 1 < 2
+
+    @pytest.fixture(params=[[1,1,2],[1,2,3],[1,4,5]])
     # @pytest.mark.parametrize("a,b,c", [(1,1,2),(1,2,3),(1,4,5)])
     def test_6(self,a,b,c):
         assert a+b == c
