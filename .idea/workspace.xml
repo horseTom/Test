@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39d9496c-df29-4992-aca5-a9fe5c9b874f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="39d9496c-df29-4992-aca5-a9fe5c9b874f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +41,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="studypython" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -386,6 +384,7 @@
       <workItem from="1578373832621" duration="3687000" />
       <workItem from="1606697984924" duration="10000" />
       <workItem from="1606700101905" duration="137000" />
+      <workItem from="1606700916102" duration="262000" />
     </task>
     <task id="LOCAL-00001" summary="Day01">
       <created>1557797413092</created>
@@ -500,6 +499,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Day04" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1606701298574">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1606701298574" />
     <state x="384" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1606700331565">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
