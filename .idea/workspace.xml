@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39d9496c-df29-4992-aca5-a9fe5c9b874f" name="Default Changelist" comment="1.计算器编写">
-      <change afterPath="$PROJECT_DIR$/study-python/Calculate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study-python/Recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study-python/wr_sum.py" afterDir="false" />
+    <list default="true" id="39d9496c-df29-4992-aca5-a9fe5c9b874f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/study-python/Day03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study-python/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study-python/test1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study-python/test2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study-python/wr_csv.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +48,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="studypython" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,10 +83,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/study-python" />
       <recent name="C:\WorkSpace\Python-100-Days" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.wr_sum">
+  <component name="RunManager" selected="Python.Day03">
     <configuration name="718" type="PythonConfigurationType" factoryName="Python">
       <module name="Python-100-Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Calculate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Day03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-100-Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +123,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study-python/Calculate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study-python/Day03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="send_email" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="WR_CSV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-100-Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,7 +167,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study-python/send_email.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study-python/WR_CSV.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_20190718" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wr_csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-100-Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,7 +189,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\WorkSpace\Python-100-Days\study-pytest\test_20190718.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study-python/wr_csv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,21 +254,21 @@
     </configuration>
     <list>
       <item itemvalue="Python.718" />
-      <item itemvalue="Python.send_email" />
-      <item itemvalue="Python.test_20190718" />
       <item itemvalue="Python.Recursion" />
-      <item itemvalue="Python.Calculate" />
+      <item itemvalue="Python.wr_sum" />
+      <item itemvalue="Python.wr_csv" />
+      <item itemvalue="Python.WR_CSV" />
+      <item itemvalue="Python.Day03" />
       <item itemvalue="Python tests.pytest" />
       <item itemvalue="Python tests.Unittests in bin" />
-      <item itemvalue="Python.wr_sum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Day03" />
+        <item itemvalue="Python.WR_CSV" />
+        <item itemvalue="Python.wr_csv" />
         <item itemvalue="Python.wr_sum" />
         <item itemvalue="Python.Recursion" />
-        <item itemvalue="Python.Calculate" />
-        <item itemvalue="Python.test_20190718" />
-        <item itemvalue="Python.send_email" />
       </list>
     </recent_temporary>
   </component>
@@ -421,6 +424,14 @@
       <workItem from="1607934286014" duration="1238000" />
       <workItem from="1607996653271" duration="155000" />
       <workItem from="1608009526842" duration="3891000" />
+      <workItem from="1608014804251" duration="176000" />
+      <workItem from="1608175630136" duration="4973000" />
+      <workItem from="1608188556675" duration="3326000" />
+      <workItem from="1608191982333" duration="3357000" />
+      <workItem from="1608202765498" duration="111000" />
+      <workItem from="1608202897710" duration="2454000" />
+      <workItem from="1608257412255" duration="2543000" />
+      <workItem from="1608519035047" duration="1790000" />
     </task>
     <task id="LOCAL-00001" summary="Day01">
       <created>1557797413092</created>
@@ -499,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606701635829</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="合并study python分支到master并提交到远程仓库">
+      <created>1608014853260</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608014853260</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -513,6 +531,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -546,48 +567,62 @@
     <MESSAGE value="Day02" />
     <MESSAGE value="Day03" />
     <MESSAGE value="Day04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day04" />
+    <MESSAGE value="合并study python分支到master并提交到远程仓库" />
+    <option name="LAST_COMMIT_MESSAGE" value="合并study python分支到master并提交到远程仓库" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="312" y="23" key="CommitChangelistDialog2" timestamp="1608014650373">
+    <state x="452" y="261" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608192032076">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="312" y="23" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608014650373" />
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1608013675343">
+    <state x="452" y="261" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608192032076" />
+    <state x="312" y="23" key="CommitChangelistDialog2" timestamp="1608554011152">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608013675343" />
-    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1608013675342">
+    <state x="312" y="23" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608014853121" />
+    <state x="312" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1608554011152" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1608521101137">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608013675342" />
-    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1608013675341">
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608521101137" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1608346904790" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1608521101136">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608013675341" />
-    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1608013675342">
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608521101136" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1608346904790" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1608521101136">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608013675342" />
-    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1606701658921">
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608521101136" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1608346904789" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1608521101136">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1606701658921" />
-    <state x="384" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1608009552132">
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608521101136" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1608346904790" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1608014864627">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="384" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608009552132" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608014864627" />
+    <state x="384" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1608257412991">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="384" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608175631456" />
+    <state x="384" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1608257412991" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Test$WR_CSV.coverage" NAME="WR_CSV Coverage Results" MODIFIED="1608256565231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
+    <SUITE FILE_PATH="coverage/Test$wr_csv.coverage" NAME="wr_csv Coverage Results" MODIFIED="1608191931331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
     <SUITE FILE_PATH="coverage/Python_100_Days$mock_test.coverage" NAME="mock_test Coverage Results" MODIFIED="1578366280515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-mock" />
     <SUITE FILE_PATH="coverage/Test$wr_sum.coverage" NAME="wr_sum Coverage Results" MODIFIED="1608013675333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
     <SUITE FILE_PATH="coverage/Python_100_Days$pytest.coverage" NAME="pytest Coverage Results" MODIFIED="1578378042466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Python_100_Days$test_20190718.coverage" NAME="test_20190718 Coverage Results" MODIFIED="1578377759919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
     <SUITE FILE_PATH="coverage/Test$Recursion.coverage" NAME="Recursion Coverage Results" MODIFIED="1607935681804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
+    <SUITE FILE_PATH="coverage/Test$Day03.coverage" NAME="Day03 Coverage Results" MODIFIED="1608521069118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
     <SUITE FILE_PATH="coverage/Test$Calculate.coverage" NAME="Calculate Coverage Results" MODIFIED="1607592033180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
     <SUITE FILE_PATH="coverage/Python_100_Days$pytest_in_bin.coverage" NAME="pytest in bin Coverage Results" MODIFIED="1578370402274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
