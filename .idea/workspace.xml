@@ -255,9 +255,9 @@
       <item itemvalue="Python.test_20190718" />
       <item itemvalue="Python.Recursion" />
       <item itemvalue="Python.Calculate" />
+      <item itemvalue="Python.wr_sum" />
       <item itemvalue="Python tests.pytest" />
       <item itemvalue="Python tests.Unittests in bin" />
-      <item itemvalue="Python.wr_sum" />
     </list>
     <recent_temporary>
       <list>
@@ -549,10 +549,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="Day04" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="312" y="23" key="CommitChangelistDialog2" timestamp="1608014650373">
+    <state x="312" y="23" key="CommitChangelistDialog2" timestamp="1608554169028">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="312" y="23" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608014650373" />
+    <state x="312" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1608554169028" />
     <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1608013675343">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -569,10 +570,19 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608013675342" />
-    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1606701658921">
+    <state x="144" y="100" key="MergeDialog" timestamp="1608554103426">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="144" y="100" key="MergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1608554103426" />
+    <state x="428" y="175" key="MultipleFileMergeDialog" timestamp="1608554103511">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="428" y="175" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1608554103511" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1608554188435">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1606701658921" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1608554188435" />
     <state x="384" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1608009552132">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
