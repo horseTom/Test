@@ -2,7 +2,7 @@ import random
 
 def Gamer():
     print("猜数游戏：请猜一个0到100之间的整数，共有5次机会")
-    AI_NUM = random.randint(0,100)
+    AI_NUM = random.randint(0, 100)
     for i in range(5):
         Gamer_NUM = int(input('请输入一个整数:'))
         if Gamer_NUM > AI_NUM:
