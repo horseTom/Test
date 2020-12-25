@@ -64,7 +64,11 @@ class GuessNumberPro:
             self.funcB_times -= 1
             GuessNumberPro().funcB()
 
-
+    def funcC(self):
+        if self.answer_number % 2 == 0:
+            print("这是一个偶数")
+        else:
+            print("这是一个奇数")
 
 test = GuessNumberPro()
 test.funcA()
