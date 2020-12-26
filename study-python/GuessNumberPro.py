@@ -15,61 +15,72 @@ class GuessNumberPro:
     max_a = 1000
     random.seed()
     answer_number = random.randint(1, 1000)
+    funcA_times = 4
     funcB_times = 4
+    funcC_times = 1
 
     print(answer_number)
-    print("请输入一个1～1000范围内的整数")
-    print("猜数字游戏开始")
 
-    def funcA(self):
-
-        for i in range(6):
-            guess_number = int(input("请输入："))
-            if guess_number > self.answer_number:
-                print("你猜大了！")
-                self.max_a = guess_number
-                # if self.funcB_times == 0:
-                #     print("没有次数了！")
-                # else:
-                #     GuessNumberPro().funcB()
-                #     self.funcB_times -= 1
-                GuessNumberPro().funcBB()
-            elif guess_number < self.answer_number:
-                print("你猜小了！")
-                self.min_a = guess_number
-                # if self.funcB_times == 0:
-                #     print("没有次数了！")
-                # else:
-                #     GuessNumberPro().funcB()
-                #     self.funcB_times -= 1
-                GuessNumberPro().funcBB()
-            else:
-                print("恭喜你猜对了")
-                break
+    def funcA(self, guess_number):
+        if self.funcA_times == 0:
+            print('猜大小没有次数了!')
+            exit()
         else:
-            print('猜不到吧，我告诉你答案是 %d' % self.answer_number)
+            self.funcA_times -= 1
+            if guess_number > self.answer_number:
+                print("你猜大了!")
+                self.max_a = guess_number
+            elif guess_number < self.answer_number:
+                print("你猜小了!")
+                self.min_a = guess_number
+
+
 
     def funcB(self):
-        random.seed()
-        min = random.randint(self.min_a, self.answer_number)
-        random.seed()
-        max = random.randint(self.answer_number, self.max_a)
-        print("现在的范围是："+ str(min) + '~' + str(max))
-
-
-    def funcBB(self):
         if self.funcB_times == 0:
-            print("没有次数了！")
+            print("压缩范围没有次数了!")
+            exit()
         else:
             self.funcB_times -= 1
-            GuessNumberPro().funcB()
+            random.seed()
+            min = random.randint(self.min_a, self.answer_number)
+            random.seed()
+            max = random.randint(self.answer_number, self.max_a)
+            print("现在的范围是：" + str(min) + '~' + str(max))
 
-    def funcC(self):
-        if self.answer_number % 2 == 0:
-            print("这是一个偶数")
+    def funC(self):
+        if self.funcC_times == 0:
+            print("奇偶数判断没有次数了!")
+            exit()
         else:
-            print("这是一个奇数")
+            self.funcC_times -= 1
+            if self.answer_number % 2 == 0:
+                print("这是一个偶数!")
+            else:
+                print("这是一个奇数!")
+
+
+    def Guess(self):
+        print('你有三个选择：\n'
+              '选择a：你猜一个数，我告诉你大小\n'
+              '选择b：系统将随机为你压缩大小\n'
+              '选择c：我直接告诉你是奇数还是偶数\n'
+              '请输入你的选择,如果已有答案，请直接输入数字：')
+        while(self.funcA_times | self.funcB_times | self.funcC_times):
+
+            num = input()
+            if (num == 'a'):
+                num = int(input())
+                self.funcA(num)
+            elif (num == 'b'):
+                self.funcB()
+            elif(num == 'c'):
+                self.funC()
+            elif(int(num) == self.answer_number):
+                print('恭喜你答对了!')
+                break
 
 test = GuessNumberPro()
-test.funcA()
+test.Guess()
+
 
