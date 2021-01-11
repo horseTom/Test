@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39d9496c-df29-4992-aca5-a9fe5c9b874f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/study-python/Lottery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study-request/spider_books.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request/API_EX01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study-selenium/test_se.py" beforeDir="false" afterPath="$PROJECT_DIR$/study-selenium/test_se.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +82,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="PyDebuggerOptionsProvider">
     <option name="mySaveCallSignatures" value="true" />
@@ -89,7 +92,7 @@
       <recent name="C:\WorkSpace\Python-100-Days" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lottery">
+  <component name="RunManager" selected="Python.spider_books">
     <configuration name="718" type="PythonConfigurationType" factoryName="Python">
       <module name="Python-100-Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,28 +107,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\WorkSpace\Python-100-Days\study-pytest\test_20190718.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Calculate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-100-Days" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study-python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study-python/Calculate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="spider_books" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-100-Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,12 +167,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study-python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study-request" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study-python/Recursion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study-request/spider_books.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_se" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-100-Days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study-selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study-selenium/test_se.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,21 +259,21 @@
     </configuration>
     <list>
       <item itemvalue="Python.718" />
-      <item itemvalue="Python.Recursion" />
-      <item itemvalue="Python.Calculate" />
       <item itemvalue="Python.wr_sum" />
       <item itemvalue="Python.GuessNumberPro" />
+      <item itemvalue="Python.Lottery" />
+      <item itemvalue="Python.spider_books" />
+      <item itemvalue="Python.test_se" />
       <item itemvalue="Python tests.pytest" />
       <item itemvalue="Python tests.Unittests in bin" />
-      <item itemvalue="Python.Lottery" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.spider_books" />
+        <item itemvalue="Python.test_se" />
         <item itemvalue="Python.Lottery" />
         <item itemvalue="Python.GuessNumberPro" />
         <item itemvalue="Python.wr_sum" />
-        <item itemvalue="Python.Calculate" />
-        <item itemvalue="Python.Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -438,6 +441,24 @@
       <workItem from="1608987833727" duration="1718000" />
       <workItem from="1609135041606" duration="599000" />
       <workItem from="1609223890295" duration="8937000" />
+      <workItem from="1609284845777" duration="629000" />
+      <workItem from="1609726120175" duration="1955000" />
+      <workItem from="1609729108726" duration="1252000" />
+      <workItem from="1609735781647" duration="149000" />
+      <workItem from="1609739978804" duration="221000" />
+      <workItem from="1609740204640" duration="441000" />
+      <workItem from="1609740737298" duration="348000" />
+      <workItem from="1609813790268" duration="370000" />
+      <workItem from="1609814664175" duration="155000" />
+      <workItem from="1609830416487" duration="181000" />
+      <workItem from="1609997208108" duration="67000" />
+      <workItem from="1609997333636" duration="60000" />
+      <workItem from="1609997698169" duration="7041000" />
+      <workItem from="1610155735961" duration="8868000" />
+      <workItem from="1610261174339" duration="1591000" />
+      <workItem from="1610273779116" duration="344000" />
+      <workItem from="1610274493646" duration="1704000" />
+      <workItem from="1610344723748" duration="2285000" />
     </task>
     <task id="LOCAL-00001" summary="Day01">
       <created>1557797413092</created>
@@ -574,32 +595,44 @@
     <option name="LAST_COMMIT_MESSAGE" value="1.计算器编写" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2000" y="217" key="#Inspections" timestamp="1610348807690">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2000" y="217" key="#Inspections/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610348807690" />
+    <state x="422" y="261" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609726373652">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="422" y="261" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1609726373652" />
     <state x="367" y="23" key="CommitChangelistDialog2" timestamp="1608897995907">
       <screen x="70" y="23" width="1370" height="877" />
     </state>
     <state x="312" y="23" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1608014650373" />
     <state x="312" y="23" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1608554169028" />
     <state x="367" y="23" key="CommitChangelistDialog2/70.23.1370.877@70.23.1370.877" timestamp="1608897995907" />
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1609247268008">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="210" key="GridCell.Tab.0.bottom" timestamp="1610359166439">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1609232845704" />
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1609247268008" />
-    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1609247268006">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1610157147952" />
+    <state width="1878" height="210" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610359166439" />
+    <state width="1398" height="163" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1610274696416" />
+    <state width="1878" height="210" key="GridCell.Tab.0.center" timestamp="1610359166439">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1609232845704" />
-    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1609247268006" />
-    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1609247268005">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1610157147951" />
+    <state width="1878" height="210" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610359166439" />
+    <state width="1398" height="163" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1610274696415" />
+    <state width="1878" height="210" key="GridCell.Tab.0.left" timestamp="1610359166438">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1609232845703" />
-    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1609247268005" />
-    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1609247268007">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1610157147951" />
+    <state width="1878" height="210" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610359166438" />
+    <state width="1398" height="163" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1610274696414" />
+    <state width="1878" height="210" key="GridCell.Tab.0.right" timestamp="1610359166439">
+      <screen x="1440" y="23" width="1920" height="1057" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1609232845704" />
-    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1609247268007" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1610157147952" />
+    <state width="1878" height="210" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610359166439" />
+    <state width="1398" height="163" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1610274696415" />
     <state x="144" y="100" key="MergeDialog" timestamp="1608554103426">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -608,17 +641,30 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="428" y="175" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1608554103511" />
-    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1608988275331">
+    <state x="229" y="98" key="SettingsEditor" timestamp="1609998302877">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="98" key="SettingsEditor/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1609998302877" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1609284856342">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1606701658921" />
-    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1608988275331" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1609284856342" />
     <state x="374" y="197" key="Vcs.Push.Dialog.v2/70.23.1370.877@70.23.1370.877" timestamp="1608898003946" />
-    <state x="384" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1609135051427">
+    <state x="384" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1610344732399">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="384" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1609135051427" />
-    <state x="384" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1608945442087" />
+    <state x="384" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1610344732399" />
+    <state x="384" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1610261175649" />
+    <state x="508" y="380" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609726164387">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="508" y="380" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1609726164387" />
+    <state x="2079" y="315" width="555" height="279" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1610157932217">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="479" y="265" width="565" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1440.877/1440.23.1920.1057@0.23.1440.877" timestamp="1610014223531" />
+    <state x="2079" y="315" width="555" height="279" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610157932217" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1608712889535">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -635,6 +681,8 @@
     <SUITE FILE_PATH="coverage/Python_100_Days$test_20190718.coverage" NAME="test_20190718 Coverage Results" MODIFIED="1578377759919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
     <SUITE FILE_PATH="coverage/Test$Recursion.coverage" NAME="Recursion Coverage Results" MODIFIED="1607935681804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
     <SUITE FILE_PATH="coverage/Test$GuessNumberPro.coverage" NAME="GuessNumberPro Coverage Results" MODIFIED="1608974802023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
+    <SUITE FILE_PATH="coverage/Test$test_se.coverage" NAME="test_se Coverage Results" MODIFIED="1610335658289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-selenium" />
+    <SUITE FILE_PATH="coverage/Test$spider_books.coverage" NAME="spider_books Coverage Results" MODIFIED="1610358560117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-request" />
     <SUITE FILE_PATH="coverage/Test$Calculate.coverage" NAME="Calculate Coverage Results" MODIFIED="1607592033180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
     <SUITE FILE_PATH="coverage/Python_100_Days$pytest_in_bin.coverage" NAME="pytest in bin Coverage Results" MODIFIED="1578370402274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Test$Lottery.coverage" NAME="Lottery Coverage Results" MODIFIED="1609247267997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study-python" />
